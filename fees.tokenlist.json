@@ -1,0 +1,22 @@
+{
+  "name": "Tokens with built in TX fees"
+
+    }
+  },
+  "timestamp": "2021-04-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "symbol": "SAFEMOON",
+      "name": "SAFEMOON",
+      "decimals": 18,
+
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
